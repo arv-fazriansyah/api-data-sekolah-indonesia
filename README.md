@@ -14,7 +14,7 @@ https://api.fazriansyah.eu.org/v1/sekolah?npsn=12345678
 ## 🚀 Fitur
 
 * ✅ Ambil data sekolah berdasarkan **NPSN**
-* 📡 Data resmi dari [api.data.belajar.id](https://api.data.belajar.id)
+* 📡 Data resmi dari [belajar.id](https://belajar.id)
 * 🔁 Terupdate otomatis setiap hari
 * 📄 Format JSON rapi, siap digunakan di aplikasi
 * 🧭 Mendukung query berbasis NPSN
