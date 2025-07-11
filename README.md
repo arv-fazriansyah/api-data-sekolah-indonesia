@@ -3,7 +3,7 @@
 ---
 API publik untuk mendapatkan data satuan pendidikan (SD, SMP, SMA, SMK, dan lainnya) di seluruh Indonesia berdasarkan Dapodik (Data Pokok Pendidikan), dengan pencarian menggunakan NPSN.
 
-🔗 Contoh endpoint:
+🔗 Endpoint:
 
 ```
 https://api.fazriansyah.eu.org/v1/sekolah?npsn=12345678
@@ -66,7 +66,7 @@ Contoh respons:
 ## 🧑‍💻 Teknologi
 
 * Cloudflare Worker (proxy serverless)
-* Sumber data resmi: [api.data.belajar.id](https://api.data.belajar.id)
+* Sumber data resmi: [belajar.id](https://belajar.id)
 
 ---
 
