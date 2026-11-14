@@ -3,7 +3,7 @@
 
 ## Deskripsi
 
-API publik data sekolah dasar hingga menengah di seluruh Indonesia berdasarkan Dapodik. Cari berdasarkan NPSN dan dapatkan informasi lengkap dan terbaru dalam format JSON.
+API publik untuk mendapatkan data satuan pendidikan (SD, SMP, SMA, SMK, dan lainnya) di seluruh Indonesia berdasarkan Dapodik (Data Pokok Pendidikan). Cari berdasarkan NPSN dan dapatkan informasi lengkap dan terbaru dalam format JSON.
 
 ---
 
